@@ -10,5 +10,5 @@
 - Website → https://defendredcon.io/
 - Twitter → https://twitter.com/defendredcon
 - News → https://news.defendredcon.com/
-- 
+
 ## We will add in instructions on how to submit an issue. 
